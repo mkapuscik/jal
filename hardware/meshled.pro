@@ -1,4 +1,4 @@
-update=Saturday, September 16, 2017 'AMt' 01:52:17 AM
+update=Saturday, 16 September 2017 'pmt' 21:06:27
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=jal-library

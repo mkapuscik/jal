@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EZR32HG320F32R55G
+D EZR32HG320 Wireless MCU family with ARM Cortex-M0+ CPU, USB, and sub-GHz RadioEZR32HG320 Wireless MCU family with ARM Cortex-M0+ CPU, USB, and sub-GHz RadioEZR32HG320 Wireless MCU family with ARM Cortex-M0+ CPU, USB, and sub-GHz RadioEZR32HG320 Wireless MCU family with ARM Cortex-M0+ CPU, USB, and sub-GHz RadioEZR32HG320 Wireless MCU family with ARM Cortex-M0+ CPU, USB, and sub-GHz Radio
+K Sub-GHz,Gecko,M0+,EZR32
+F datasheets/EZR32HG320-DataSheet.pdf
+$ENDCMP
+#
+#End Doc Library
